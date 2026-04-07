@@ -1,7 +1,7 @@
 {
   "semver": false,
-  "parser_version": "6d9511c28181db66daee4e883f811f6251220943",
-  "location": null,
   "url": "https://github.com/elm-tooling/tree-sitter-elm",
-  "lang": "elm"
+  "lang": "elm",
+  "parser_version": "6d9511c28181db66daee4e883f811f6251220943",
+  "location": null
 }
